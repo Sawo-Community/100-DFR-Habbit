@@ -1,2 +1,2 @@
-# Habbit
-The official repository of brand Habbit for 100 Days of Feature Request
+# Habbit in 100 Days of Feature Request
+
