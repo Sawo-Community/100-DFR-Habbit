@@ -4,6 +4,10 @@ We are so excited to have Habbit in the first edition of 100 Days of Feature Req
 
 # About the Brand
 
+Habbit helps learners upskill through live classes and communities from creators who made a sustainable lifestyle out of these new-age creative and digital skills. Learners create hands-on projects and build a portfolio for themselves which is used to connect and collaborate with other peers, creators, and organizations. Habbit also helps provide discoverability for the creators to learners seeking mentorship and helps creators monetize to become micro-entrepreneurs through a revenue-sharing model from payments done by the learners on the platform.
+
+Our immediate plans are to make our live classes and communities more seamless, interactive, and engaging while expanding our creator base. Our long term plans are to help learners achieve a tangible outcome by making their portfolios discoverable to other peers, creators and organizations for collaboration opportunities. We're also working on providing our creators more ownership, discoverability, and monetization strategies through services to their loyal fan base developed by delivering value through live interaction and communities. Our vision is to make Habbit the go-to platform and community to learn, connect, create and collaborate for creators.
+
 # Table of Contest
 
 * [Contributing](#contributing)
