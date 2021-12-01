@@ -8,6 +8,12 @@ Habbit helps learners upskill through live classes and communities from creators
 
 Our immediate plans are to make our live classes and communities more seamless, interactive, and engaging while expanding our creator base. Our long term plans are to help learners achieve a tangible outcome by making their portfolios discoverable to other peers, creators and organizations for collaboration opportunities. We're also working on providing our creators more ownership, discoverability, and monetization strategies through services to their loyal fan base developed by delivering value through live interaction and communities. Our vision is to make Habbit the go-to platform and community to learn, connect, create and collaborate for creators.
 
+# Rewards
+
+Habbit will be rewarding to the contributors in 100 Days of Feature Request. The following are their token of appreciation:
+- Merchandise and Swags
+- Discounts for Courses
+
 # Table of Contest
 
 * [Contributing](#contributing)
