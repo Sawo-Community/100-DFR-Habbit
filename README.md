@@ -8,6 +8,13 @@ Habbit helps learners upskill through live classes and communities from creators
 
 Our immediate plans are to make our live classes and communities more seamless, interactive, and engaging while expanding our creator base. Our long term plans are to help learners achieve a tangible outcome by making their portfolios discoverable to other peers, creators and organizations for collaboration opportunities. We're also working on providing our creators more ownership, discoverability, and monetization strategies through services to their loyal fan base developed by delivering value through live interaction and communities. Our vision is to make Habbit the go-to platform and community to learn, connect, create and collaborate for creators.
 
+# Problem Statements
+
+- Suppose Habbit's uninstall rate is very high. We need to improve how many users stay on the app. Develop a metric which will be able to track App uninstalls and Active users on app.
+- We see a lot of churn from "Free users" to "Paid Users". Develop a metric that will be able to track Conversion rate from Free users to Paid Users.
+
+You can find the same problem statements as **issues**. <b>Read the issues and mention them while submitting a Pull Request.</b>
+
 # Rewards
 
 Habbit will be rewarding to the contributors in 100 Days of Feature Request. The following are their token of appreciation:
